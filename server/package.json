@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "name": "fortunerecruits",
+  "version": "1.0.0",
+  "description": "Making a mern web application for fortune recruits to trying it on AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Anser Shafiq",
+  "license": "ISC"
+}
